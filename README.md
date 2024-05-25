@@ -1,4 +1,6 @@
-# Cepedi.CleanArch
+# Cepedi.BancoCentral.Cadastro
+
+## Repositorio onde desenvolvi, mais minha equipe, uma api simulando um setor do banco central responsavel pelo cadastro de varias entidades, usei entity framework, mediator, clean architeture, docker, dapper, logger entre outras tecnologias
 
 Executar o projeto `src\Cepedi.BancoCentral.Cadastro.Api` para abrir o swagger
 
